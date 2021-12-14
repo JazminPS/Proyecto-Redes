@@ -2,7 +2,7 @@
 Proyecto final de la materia redes inteligentes
 
 Para ejecutar este programa es necesario contar con los modulos de python : **numpy**, **decimal** y **matplotlib**
-Para intalarlos se ejecutan los siguientes comandos en la terminal:
+Para instalarlos se ejecutan los siguientes comandos en la terminal:
   - **pip install numpy**
   - **pip install decimal**
   - **pip install matplotlib**
